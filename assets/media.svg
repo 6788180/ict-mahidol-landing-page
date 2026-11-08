@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" fill="none">
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#fff8fd"/><stop offset=".48" stop-color="#ecc7ef"/><stop offset="1" stop-color="#b3b4e6"/>
+    </linearGradient>
+    <linearGradient id="play" x2=".8" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#fff"/><stop offset=".38" stop-color="#f7c7f3"/><stop offset="1" stop-color="#9d78c9"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="162" cy="146" rx="61" ry="10" fill="#ad7cac" opacity=".13"/>
+  <rect x="116" y="42" width="122" height="83" rx="15" transform="rotate(12 177 83)" fill="url(#panel)" stroke="white" stroke-width="1.6"/>
+  <path d="m213 68 3-11m3 14 3-11m3 14 3-11" stroke="#997bb5" stroke-linecap="round"/>
+  <g transform="rotate(-12 152 93)">
+    <rect x="86" y="47" width="132" height="94" rx="15" fill="url(#panel)" stroke="white" stroke-width="1.6"/>
+    <path d="M87 68h130M98 59h.1m6 0h.1m6 0h.1" stroke="#a27cba" stroke-width="2" stroke-linecap="round"/>
+    <path d="M107 128h90m-84 0h24" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="145" cy="128" r="3" fill="#a27cba"/>
+    <path d="M143 80q-5-3-5 3v29q0 6 5 3l27-14q6-3 0-6Z" fill="url(#play)" stroke="#fffc" stroke-width="2"/>
+  </g>
+  <path d="M245 91q1.1 9.9 11 11-9.9 1.1-11 11-1.1-9.9-11-11 9.9-1.1 11-11ZM73 113q.7 6.3 7 7-6.3.7-7 7-.7-6.3-7-7 6.3-.7 7-7Z" fill="#b27cb6"/>
+  <circle cx="255" cy="67" r="4" fill="#fff3fd" stroke="#b27cb6"/>
+</svg>
